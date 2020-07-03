@@ -12,7 +12,6 @@ namespace MEF.DemoTwo
     class Program
     {
         // 按照契约名导入，相同的契约名回被同时导入
-
         [ImportMany("MusicBook")]
         //[ImportMany("MusicBook")]还有下面的声明变成了IEnumerable<>
         //因为要导入多个实例，所以要用到集合，下面采用foreach遍历输出
