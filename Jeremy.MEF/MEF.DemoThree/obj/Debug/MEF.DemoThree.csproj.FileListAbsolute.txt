@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\bin\Debug\MEF.DemoThree.exe.config
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\bin\Debug\MEF.DemoThree.exe
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\bin\Debug\MEF.DemoThree.pdb
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\obj\Debug\MEF.DemoThree.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\obj\Debug\MEF.DemoThree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\obj\Debug\MEF.DemoThree.exe
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoThree\obj\Debug\MEF.DemoThree.pdb
