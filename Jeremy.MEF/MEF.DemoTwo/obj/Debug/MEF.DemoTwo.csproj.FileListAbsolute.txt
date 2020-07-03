@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\bin\Debug\MEF.DemoTwo.exe.config
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\bin\Debug\MEF.DemoTwo.exe
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\bin\Debug\MEF.DemoTwo.pdb
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\obj\Debug\MEF.DemoTwo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\obj\Debug\MEF.DemoTwo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\obj\Debug\MEF.DemoTwo.exe
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF\MEF.DemoTwo\obj\Debug\MEF.DemoTwo.pdb
