@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEF.DemoOne", "MEF.DemoOne\MEF.DemoOne.csproj", "{212577D8-3217-4F80-942E-D1275C30B6B9}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212577D8-3217-4F80-942E-D1275C30B6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212577D8-3217-4F80-942E-D1275C30B6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212577D8-3217-4F80-942E-D1275C30B6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212577D8-3217-4F80-942E-D1275C30B6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
