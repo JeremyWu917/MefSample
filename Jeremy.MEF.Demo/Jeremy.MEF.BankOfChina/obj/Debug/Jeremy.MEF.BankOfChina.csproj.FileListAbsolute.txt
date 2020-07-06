@@ -1,0 +1,9 @@
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\bin\Debug\Jeremy.MEF.BankOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\bin\Debug\Jeremy.MEF.BankOfChina.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\bin\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\bin\Debug\Jeremy.MEF.BankInterface.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\obj\Debug\Jeremy.MEF.BankOfChina.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\obj\Debug\Jeremy.MEF.BankOfChina.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\obj\Debug\Jeremy.MEF.BankOfChina.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\obj\Debug\Jeremy.MEF.BankOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankOfChina\obj\Debug\Jeremy.MEF.BankOfChina.pdb

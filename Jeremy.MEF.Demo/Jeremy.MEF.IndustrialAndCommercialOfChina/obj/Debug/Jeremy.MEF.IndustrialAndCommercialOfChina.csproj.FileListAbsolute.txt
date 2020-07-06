@@ -1,0 +1,9 @@
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\bin\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\bin\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\bin\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\bin\Debug\Jeremy.MEF.BankInterface.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\obj\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\obj\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\obj\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\obj\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.IndustrialAndCommercialOfChina\obj\Debug\Jeremy.MEF.IndustrialAndCommercialOfChina.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\bin\Debug\Jeremy.MEF.AgricultureOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\bin\Debug\Jeremy.MEF.AgricultureOfChina.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\bin\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\bin\Debug\Jeremy.MEF.BankInterface.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\obj\Debug\Jeremy.MEF.AgricultureOfChina.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\obj\Debug\Jeremy.MEF.AgricultureOfChina.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\obj\Debug\Jeremy.MEF.AgricultureOfChina.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\obj\Debug\Jeremy.MEF.AgricultureOfChina.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.AgricultureOfChina\obj\Debug\Jeremy.MEF.AgricultureOfChina.pdb

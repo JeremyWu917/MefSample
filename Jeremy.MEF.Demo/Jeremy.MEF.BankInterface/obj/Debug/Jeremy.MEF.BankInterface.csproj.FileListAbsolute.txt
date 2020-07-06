@@ -1,0 +1,5 @@
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankInterface\bin\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankInterface\bin\Debug\Jeremy.MEF.BankInterface.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankInterface\obj\Debug\Jeremy.MEF.BankInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankInterface\obj\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.BankInterface\obj\Debug\Jeremy.MEF.BankInterface.pdb

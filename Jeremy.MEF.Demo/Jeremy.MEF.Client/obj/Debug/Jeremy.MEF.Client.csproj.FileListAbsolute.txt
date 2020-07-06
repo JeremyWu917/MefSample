@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\bin\Debug\Jeremy.MEF.Client.exe.config
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\bin\Debug\Jeremy.MEF.Client.exe
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\bin\Debug\Jeremy.MEF.Client.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\bin\Debug\Jeremy.MEF.BankInterface.dll
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\bin\Debug\Jeremy.MEF.BankInterface.pdb
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\obj\Debug\Jeremy.MEF.Client.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\obj\Debug\Jeremy.MEF.Client.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\obj\Debug\Jeremy.MEF.Client.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\obj\Debug\Jeremy.MEF.Client.exe
+C:\Users\Jeremy\Desktop\Jeremy.MEF.Demo\Jeremy.MEF.Client\obj\Debug\Jeremy.MEF.Client.pdb
