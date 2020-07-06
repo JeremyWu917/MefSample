@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\obj\Debug\Jeremy.MEF.Sheep.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\obj\Debug\Jeremy.MEF.Sheep.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\bin\Debug\Jeremy.MEF.Sheep.dll
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\bin\Debug\Jeremy.MEF.Sheep.pdb
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\bin\Debug\Jeremy.MEF.AnimalInterface.dll
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\bin\Debug\Jeremy.MEF.AnimalInterface.pdb
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\obj\Debug\Jeremy.MEF.Sheep.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\obj\Debug\Jeremy.MEF.Sheep.dll
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.Sheep\obj\Debug\Jeremy.MEF.Sheep.pdb

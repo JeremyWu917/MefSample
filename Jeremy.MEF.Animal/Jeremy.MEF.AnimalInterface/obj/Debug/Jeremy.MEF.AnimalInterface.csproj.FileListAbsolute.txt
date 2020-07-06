@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.AnimalInterface\obj\Debug\Jeremy.MEF.AnimalInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.AnimalInterface\bin\Debug\Jeremy.MEF.AnimalInterface.dll
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.AnimalInterface\bin\Debug\Jeremy.MEF.AnimalInterface.pdb
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.AnimalInterface\obj\Debug\Jeremy.MEF.AnimalInterface.dll
+C:\Users\Administrator\Desktop\MefSample\Jeremy.MEF.Animal\Jeremy.MEF.AnimalInterface\obj\Debug\Jeremy.MEF.AnimalInterface.pdb
